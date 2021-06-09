@@ -3,3 +3,5 @@ An electric miniature car, the Arduino controls a servo that turns the tires in 
 
 
 Files you find here is Arduino UNO code and picture + videos of the car.
+
+Code is in file - itse_ajava.ino
